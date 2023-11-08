@@ -22,14 +22,15 @@ title: Metadaten-Datenbank
 email: felix.kube@agoradigital.de
 description: >- # this means to ignore newlines until "baseurl:"
   Wirkungsorientierung braucht Daten. Daten brauchen Menschen, die sich um sie kümmern, sie kategorisieren, und damit nutzbar machen.
-  Auf dieser Seite findet sich eine Übersicht und Kategorisierung von bereits erhobenen Datensätzen, die indiziert und damit durchsuchbar sind. Nach Indikatoren, Beschreibungen, unseren und hoffentlich bald euren Tags und den Metadaten der Datenbereitsteller selbst.
+  Auf dieser Seite findet sich eine Übersicht und Kategorisierung von bereits erhobenen Datensätzen, die indiziert und damit durchsuchbar sind. Nach Indikatoren, Beschreibungen - unseren und hoffentlich bald euren Tags - sowie den Metadaten der Datenbereitsteller selbst.
+  Wenn ihr an dem Projekt teilhaben wollt und auch Daten jenseits des Realms der Digitalen Transformation einspielen, meldet euch bei uns!
 baseurl: "/Metadatenbank-Wirkungsorientierung" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AgoraDT
 github_username:  Agora-Digitale-Transformation
 
 # Build settings
-theme: cayman
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
 
